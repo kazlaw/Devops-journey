@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is DEA4-158B
+
+ Directory of C:\Users\lkazooba\Desktop\coursera\Gitproject
+
+12/03/2021  08:57 AM    <DIR>          .
+12/03/2021  08:57 AM    <DIR>          ..
+12/03/2021  08:57 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  164,711,084,032 bytes free
